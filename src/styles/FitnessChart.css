@@ -1,0 +1,20 @@
+.fitness-chart {
+  background: white;
+  border-radius: 18px;
+  padding: 1.25rem;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+}
+
+.fitness-chart h2 {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+  color: #312e81;
+}
+
+.fitness-chart canvas {
+  width: 100%;
+  max-width: 100%;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  background: white;
+}
